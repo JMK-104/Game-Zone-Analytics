@@ -1,7 +1,7 @@
 # Game-Zone-Analytics
 ---
 ## Background
-GameZone is a consumer electronics retailer specializing in gaming consoles, computer hardware, and related accessories, including products such as monitors, laptops, and gaming systems. The company sells its products across multiple geographic regions through a mix of marketing channels, including Direct (owned digital channels), Email, Affiliate, and Social Media marketing channels.
+GameZone is a consumer electronics retailer specializing in gaming consoles, computer hardware, and related accessories, selling its products across multiple geographic regions through a mix of marketing channels, including Direct, Email, Affiliate, and Social Media.
 
 The objective of this analysis is to understand historical revenue performance, identify key drivers of growth and decline, and assess how products, regions, and marketing channels contributed to overall business outcomes. This goal is to provide insights that may boost and/or stabilize revenue and improve product performance.
 
