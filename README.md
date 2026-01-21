@@ -17,7 +17,8 @@ Insights and recommendations are provided in the following key areas:
 
 -  **Multi-Dimensional Driver & Decline Analysis:** Here, we will conduct a deep-dive analysis across product, region, and channel combinations to identify specific drivers of revenue changes. This analysis will focus on Revenue by Product–Region–Channel Combination, Contribution to Total Revenue Change (%), Top Positive / Negative Revenue Drivers, and Revenue Dependency Index.
 
-An interactive Tableau dashboard can be downloaded [here]
+An interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone_dashboard.twbx).
+
 
 ---
 ## Data Structure Overview
