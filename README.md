@@ -23,8 +23,6 @@ The SQL queries utilized to inspect and perform quality checks can be found here
 
 The SQL queries utilized to clean, organize, and prepare the data for the dashboard can be found here.
 
-Targeted SQL queries regarding specific business questions can be found here.
-
 
 ---
 ## Data Structure Overview
