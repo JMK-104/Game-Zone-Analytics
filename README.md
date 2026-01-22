@@ -19,6 +19,12 @@ Insights and recommendations are provided in the following key areas:
 
 An interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone_dashboard.twbx).
 
+The SQL queries utilized to inspect and perform quality checks can be found here.
+
+The SQL queries utilized to clean, organize, and prepare the data for the dashboard can be found here.
+
+Targeted SQL queries regarding specific business questions can be found here.
+
 
 ---
 ## Data Structure Overview
