@@ -27,6 +27,8 @@ The SQL queries utilized to clean, organize, and prepare the data for the dashbo
 ---
 ## Data Structure Overview
 
+![GameZone Data Structure](Tableau/images/gamezone_data_structure.png)
+
 ---
 ## Executive Summary
 
