@@ -27,6 +27,12 @@ The SQL queries utilized to clean, organize, and prepare the data for the dashbo
 ---
 ## Data Structure Overview
 
+GameZone sales data for the relevant period initially consisted of a single Excel file (.xlsx) consisting of 21,865 records. The original file can be found [here](Excel/dataset/gamezone-orders-data.xlsx).
+
+After initial data cleaning steps were implemented in Excel, SQL was used to perform final cleaning and preparation for dashboard creation. The SQL queries used to create the data structure and prepare it for the dashboard can be found [here](SQL/ddl).
+
+Below is an Entity Relationship Diagram showing the database structure used for this analysis. The database consists of three tables: fact_orders, dim_customers, and dim_products, with a total of 19,761 records.
+
 ![GameZone Data Structure](Tableau/images/gamezone_data_structure.png)
 
 
