@@ -64,7 +64,10 @@ Below is a snapshot of the Tableau dashboard highlighting these patterns, with a
 
 ### Product Performance & Revenue Concentration
 
-- Revenue is highly concentrated among four products—Monitor, Switch, PS5, and IdeaPad—which together drive the majority of total revenue.
-- The January 2020 demand surge exaggerates product-level concentration, increasing reliance on a small set of high-performing SKUs.
-- All four products experience significant growth starting in January 2020, with PS5 showing the strongest growth trajectory and IdeaPad the weakest among the group.
+- Revenue is highly concentrated among four products: Monitor, Switch, PS5, and IdeaPad, which together account for ~96% of total revenue.
+- The January 2020 demand surge exaggerates product-level concentration. Revenue share of the four highest-selling products rose from 96.3% of total revenue to 97.1%.
 - This concentration elevates revenue dependency risk, as overall performance is heavily influenced by a limited number of products.
+
+Below is a revenue concentration graph highlighting the impact that the four highest-selling products have on total revenue.
+
+![Revenue Concentraion](Tableau/images/revenue_share_by_product.png)
