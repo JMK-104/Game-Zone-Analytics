@@ -50,7 +50,6 @@ The post–December 2020 decline highlights both seasonal normalization and conc
 
 Below is a snapshot of the Tableau dashboard highlighting these patterns, with additional examples included throughout this report. The full interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone_dashboard.twbx).
 
-
 ![GameZone Screenshot](Tableau/images/gamezone_dashboard_screenshot.png)
 
 ### Time-Series & Trends
@@ -60,7 +59,8 @@ Below is a snapshot of the Tableau dashboard highlighting these patterns, with a
 - The January 2020 inflection point is observed across nearly all products and regions, suggesting a company-wide macro event as the primary driver of growth. YoY revenue grew ~160% during this period.
 - Revenue volatility increases following January 2020, reflecting amplified demand fluctuations during peak promotional and holiday periods.
 
-  *Visualization*
+The chart below shows monthly revenue throughout the dataset, highlighting the outsized effect of the January 2020  macro event.
+![Monthly Revenue](Tableau/images/monthly_revenue.png)
 
 ### Product Performance & Revenue Concentration
 
@@ -71,3 +71,5 @@ Below is a snapshot of the Tableau dashboard highlighting these patterns, with a
 Below is a revenue concentration graph highlighting the impact that the four highest-selling products have on total revenue.
 
 ![Revenue Concentraion](Tableau/images/revenue_share_by_product.png)
+
+### 
