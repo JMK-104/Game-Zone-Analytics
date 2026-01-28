@@ -77,4 +77,15 @@ Below is a revenue concentration graph highlighting the impact that the four hig
 
 ![Revenue Concentraion](Tableau/images/revenue_share_by_product.png)
 
-### 
+### Regional Performance
+
+- North America and EMEA are the primary contributors to total revenue, with North America contributing 54.79% of total revenue and EMEA contributing 32.93%.
+
+![Revenue By Region](Tableau/images/revenue_by_region.png)
+
+- All regions display a synchronised spike in activity beginning in January 2020, reinforcing the presence of a macro-level, company-wide demand shift.
+- Seasonal spikes in September and December are visible across regions, with the largest impact observed in North America and EMEA.
+
+Below is a chart highlighting the impact of the Jan 2020 macro event, and its impact on revenue split by region
+
+![Regional Performance](Tableau/images/regional_performance.png)
