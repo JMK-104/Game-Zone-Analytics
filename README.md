@@ -64,9 +64,14 @@ The chart below shows monthly revenue throughout the dataset, highlighting the o
 
 ### Product Performance & Revenue Concentration
 
+- Prior to the January 2020 event, Average Order Value (AOV) remained relatively steady with a low in January 2019 of $215.11, and a high in February 2019 of $251.67. Going into 2020, however, AOV increased sharply starting in December 2019, and increased steadily afterwards with a 2020 low of $280.76 and a high of $333.16
+
+
+![AOV](Tableau/images/avg_order_value.png)
+
 - Revenue is highly concentrated among four products: Monitor, Switch, PS5, and IdeaPad, which together account for ~96% of total revenue.
 - The January 2020 demand surge exaggerates product-level concentration. Revenue share of the four highest-selling products rose from 96.3% of total revenue to 97.1%.
-- This concentration elevates revenue dependency risk, as overall performance is heavily influenced by a limited number of products.
+- This concentration elevates revenue dependency risk, as a limited number of products heavily influences overall performance.
 
 Below is a revenue concentration graph highlighting the impact that the four highest-selling products have on total revenue.
 
