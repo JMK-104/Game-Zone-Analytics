@@ -70,8 +70,13 @@ The chart below shows monthly revenue throughout the dataset, highlighting the o
 ![AOV](Tableau/images/avg_order_value.png)
 
 - Revenue is highly concentrated among four products: Monitor, Switch, PS5, and IdeaPad, which together account for ~96% of total revenue.
+
+![Revenue Contribuion](Tableau/images/revenue_contribution.png)
+
 - The January 2020 demand surge exaggerates product-level concentration. Revenue share of the four highest-selling products rose from 96.3% of total revenue to 97.1%.
 - This concentration elevates revenue dependency risk, as a limited number of products heavily influences overall performance.
+- The 2020 Macro Event saw the PlayStation's contribution to total revenue increase from 16.16% in 2019 to 29.87% in 2020. Because more people were staying home during this time, they likely had more time and desire to purchase more PlayStations.
+- Conversely, the Nintendo Switch saw its revenue contribution decrease from 33.08% in 2019 to 24.78% in 2020, likely also owing to the influence of the Macro Event. If more people were staying home, they likely had less desire to purchase a portable gaming system.
 
 Below is a revenue concentration graph highlighting the impact that the four highest-selling products have on total revenue.
 
@@ -89,3 +94,10 @@ Below is a revenue concentration graph highlighting the impact that the four hig
 Below is a chart highlighting the impact of the Jan 2020 macro event, and its impact on revenue split by region
 
 ![Regional Performance](Tableau/images/regional_performance.png)
+
+### Marketing Channel Effectiveness
+
+- The Direct marketing channel dominates revenue contribution compared to all other channels, making up 86% of all traffic across all regions, while bringing in $4.81M in total revenue
+- Following the January 2020 inflection point, Direct revenue grew at a substantially faster rate than other channels. This pattern was observed across all regions, but was significantly more pronounced in North America and EMEA
+
+![Regiona Marketing Channel](Tableau/images/region_marketing_channel.png)
