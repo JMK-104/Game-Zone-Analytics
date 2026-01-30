@@ -98,6 +98,7 @@ Below is a chart highlighting the impact of the Jan 2020 macro event, and its im
 ### Marketing Channel Effectiveness
 
 - The Direct marketing channel dominates revenue contribution compared to all other channels, making up 86% of all traffic across all regions, while bringing in $4.81M in total revenue
-- Following the January 2020 inflection point, Direct revenue grew at a substantially faster rate than other channels. This pattern was observed across all regions, but was significantly more pronounced in North America and EMEA
+- Following the January 2020 Macro Event, Direct revenue grew at a substantially faster rate than other channels. This pattern was observed across all regions, but was significantly more pronounced in North America and EMEA.
+- The increased share of Direct traffic suggests a rise in high-intent customer behavior, potentially influenced by lockdown-related changes.
 
 ![Regiona Marketing Channel](Tableau/images/region_marketing_channel.png)
