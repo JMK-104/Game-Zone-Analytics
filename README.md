@@ -3,7 +3,7 @@
 ## Background
 GameZone is a consumer electronics retailer specializing in gaming consoles, computer hardware, and related accessories, selling its products across multiple geographic regions through a mix of marketing channels.
 
-The objective of this analysis is to understand historical revenue performance, identify key drivers of growth and decline, and assess how products, regions, and marketing channels contributed to overall business outcomes. This goal is to provide insights that may boost and/or stabilize revenue and improve product performance.
+The objective of this analysis is to evaluate historical revenue performance, identify structural shifts in demand, and quantify the impact of product mix, regional performance, and marketing channels on overall revenue outcomes. This project highlights both growth catalysts and concentration risks that materially influence business performance. The findings are intended to support data-driven decision-making across finance, product, and marketing teams by informing forecasting, portfolio prioritization, and channel strategy.
 
 Insights and recommendations are provided in the following key areas:
 
@@ -40,11 +40,11 @@ Below is an Entity Relationship Diagram showing the database structure used for 
 ### Overview of Findings
 
 
-Revenue performance shows a clear structural shift beginning in January 2020, with sustained growth through December 2020 and pronounced seasonal spikes in September and December across multiple years. 
+Revenue trends reveal a clear structural shift beginning in January 2020, following a post-holiday dip in December 2019. Monthly revenue shows consistent seasonal spikes in September and December across both 2019 and 2020, with a pre-pandemic peak of $166K in December 2019 and a substantially higher peak of $496K in December 2020. Year-over-year revenue grew by approximately 160%, increasing from $1.40M in 2019 to $3.63M in 2020, indicating growth beyond normal seasonality and consistent with a company-wide macro event.
 
-A small set of products—particularly Monitor, Switch, PS5, and IdeaPad—drive a disproportionate share of total revenue, with North America and EMEA contributing the majority of regional performance and Direct marketing dominating channel mix. While pandemic-driven demand accelerated growth across all dimensions, revenue remains highly concentrated, with individual product–region–channel combinations materially impacting overall performance. 
+Product performance during this period became increasingly concentrated, with Monitor, Switch, PS5, and IdeaPad accounting for roughly 96% of total revenue. Average Order Value rose materially starting in December 2019, increasing throughout 2020 as higher-priced products gained share. Notably, PlayStation revenue contribution increased from 16.16% in 2019 to 29.87% in 2020, while the Nintendo Switch’s share declined from 33.08% to 24.78%, reflecting shifts in customer purchasing behavior during sustained at-home demand.
 
-The post–December 2020 decline highlights both seasonal normalization and concentration risk, underscoring the importance of diversification and targeted performance monitoring.
+Regionally, North America and EMEA dominate overall performance, contributing 54.79% and 32.93% of total revenue, respectively, and exhibiting the strongest seasonal and macro-driven growth patterns. All regions experienced a synchronized revenue increase beginning in January 2020, reinforcing the presence of a broad demand shift. From a channel perspective, Direct marketing overwhelmingly drives performance, accounting for 86% of traffic and $4.81M in revenue, with post-January 2020 growth significantly outpacing other channels—particularly in North America and EMEA—suggesting a rise in high-intent customer behavior.
 
 Below is a snapshot of the Tableau dashboard highlighting these patterns, with additional examples included throughout this report. The full interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone_dashboard.twbx).
 
