@@ -15,8 +15,6 @@ Insights and recommendations are provided in the following key areas:
 
 -  Marketing Channel Effectiveness Analysis
 
--  Multi-Dimensional Driver & Decline Analysis
-
 An interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone_dashboard.twbx).
 
 The SQL queries utilized to inspect and perform quality checks can be found [here](SQL/quality_checks).
