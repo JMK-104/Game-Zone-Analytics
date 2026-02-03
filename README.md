@@ -15,7 +15,7 @@ Insights and recommendations are provided in the following key areas:
 
 -  Marketing Channel Effectiveness Analysis
 
-An interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone.twbx).
+An interactive Tableau dashboard can be downloaded [here](Tableau/game_zone.twbx).
 
 The SQL queries utilized to inspect and perform quality checks can be found [here](SQL/quality_checks).
 
@@ -46,7 +46,7 @@ Product performance during this period became increasingly concentrated, with Mo
 
 Regionally, North America and EMEA dominate overall performance, contributing 54.79% and 32.93% of total revenue, respectively, and exhibiting the strongest seasonal and macro-driven growth patterns. All regions experienced a synchronized revenue increase beginning in January 2020, reinforcing the presence of a broad demand shift. From a channel perspective, Direct marketing overwhelmingly drives performance, accounting for 86% of traffic and $4.81M in revenue, with post-January 2020 growth significantly outpacing other channels—particularly in North America and EMEA—suggesting a rise in high-intent customer behavior.
 
-Below is a snapshot of the Tableau dashboard highlighting these patterns, with additional examples included throughout this report. The full interactive Tableau dashboard can be downloaded [here](Tableau/dashboard/game_zone.twbx).
+Below is a snapshot of the Tableau dashboard highlighting these patterns, with additional examples included throughout this report. The full interactive Tableau dashboard can be downloaded [here](Tableau/game_zone.twbx).
 
 ![GameZone Screenshot](Tableau/images/dashboard.png)
 
