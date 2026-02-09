@@ -1,7 +1,8 @@
-# Game-Zone-Analytics
+# Game-Zone Sales Analysis
 ---
 ## Background
 GameZone is a consumer electronics retailer specializing in gaming consoles, computer hardware, and related accessories, selling its products across multiple geographic regions through a mix of marketing channels.
+
 
 The objective of this analysis is to evaluate historical revenue performance, identify structural shifts in demand, and quantify the impact of product mix, regional performance, and marketing channels on overall revenue outcomes. This project highlights both growth catalysts and concentration risks that materially influence business performance. The findings are intended to support data-driven decision-making across finance, product, and marketing teams by informing forecasting, portfolio prioritization, and channel strategy.
 
